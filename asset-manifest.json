@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/charger-app/static/css/main.e6c13ad2.css",
+    "main.js": "/charger-app/static/js/main.013cbab5.js",
+    "index.html": "/charger-app/index.html",
+    "main.e6c13ad2.css.map": "/charger-app/static/css/main.e6c13ad2.css.map",
+    "main.013cbab5.js.map": "/charger-app/static/js/main.013cbab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.013cbab5.js"
+  ]
+}
